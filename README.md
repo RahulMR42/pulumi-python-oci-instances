@@ -59,7 +59,7 @@ $ pulumi login file://pulumi-state-local
 - Set below   the environment variables Or with Secret configs - https://www.pulumi.com/registry/packages/oci/installation-configuration/
 
 - As ENV values.
--
+
 ```markdown
 export TF_VAR_tenancy_ocid="ocid1.tenancy.oc1..<unique_ID>"
 export TF_VAR_user_ocid="ocid1.user.ocX..<unique_ID>"
