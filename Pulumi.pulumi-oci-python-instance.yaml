@@ -29,7 +29,8 @@ config:
   pulumi-oci-python-instance:oci_agent_vulnerability: DISABLED
   pulumi-oci-python-instance:policies_description: pulumi instance policies
   pulumi-oci-python-instance:servicegateway_name: instance_servicegateway
-  pulumi-oci-python-instance:ssh_pub_key: XXXXX@user1:Host1
+  pulumi-oci-python-instance:ssh_pub_key: ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCZYaL6BE5FrILkiR6Oji+l/XTrBCGbgNZQwBJpJPoT1YM1Snsf+nayOdRYawlc+q0z0Q7+cVIDUkM9xDxnLY6Sov+e3eaWlnO9jtznZHRIzbLaa/45Jxh/OIPgl+9NxpuTDy1A4eGyWRj/P+E/f1CTXbxa4aFctwIOVbaXf9+jQxQGSgC+4SpOJ6MmgTNWK+1QKyJeFvtVEXTx7X09CQRksMgpeUq0b6uddGiBi2td9xdAixk3Wz1cOsh1Gc/7byZH6PCWTgF7tBl8oQKI6X8oxFv5H2vlzBZLis3d7pBvvvxZ3f4ycifc2N6NRwyc/eXUZxE4XHUTbP+erOOARVb7
+    rahul@9d42b5ed1c7e
   pulumi-oci-python-instance:usergroup_description: pulumi user group
   pulumi-oci-python-instance:usergroup_name: pulumi_instance_ugrp
   pulumi-oci-python-instance:vcn_cidr_block: 10.0.0.0/16
