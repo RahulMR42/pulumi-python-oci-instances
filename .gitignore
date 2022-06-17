@@ -6,3 +6,4 @@ venv/
 **test**
 pulumi_state_local/**
 **pulumi_state_local**
+*.pub
